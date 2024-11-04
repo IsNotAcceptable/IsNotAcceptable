@@ -8,13 +8,12 @@
 
 <div id="social" align="center"> 
   <a href="https://steamcommunity.com/id/K0HKyPEHT_/">
-    <img src="https://img.shields.io/badge/Steam-13013f?style=for-the-badge&logo=steam" >
-  </a>
+    <img src="https://img.shields.io/badge/Steam-13013f?style=for-the-badge&logo=steam" alt="Steam" ></a>
   
   <a href="http://discordapp.com/users/798944695279026206">
-    <img src="https://img.shields.io/badge/Discord-13013f?style=for-the-badge&logo=discord" >
-  </a>
+    <img src="https://img.shields.io/badge/Discord-13013f?style=for-the-badge&logo=discord" alt="Discord" ></a>
 
-  
+  <a href="https://vk.com/10i_feel_blood_on_my_lip00">
+    <img src="https://img.shields.io/badge/VK-13013f?style=for-the-badge&logo=vk" alt="VK" ></a>
 </div>
 
