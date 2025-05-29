@@ -19,8 +19,6 @@
 
 <div id="stat" align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username= IsNotAcceptable&theme=transparent"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username= IsNotAcceptable&theme=transparent"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username= IsNotAcceptable&theme=transparent"/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username= IsNotAcceptable&theme=transparent"/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username= IsNotAcceptable&theme=transparent&utcOffset=8"/>
 </div>
