@@ -14,13 +14,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2999&pause=1000&color=9400D3&multiline=true&width=1000&height=250&separator=%3D&lines=%23include+%3Cstdio.h%3E%3Dint+main(void)%3D%7B%3D&nbsp;&nbsp;&nbsp;&nbsp;printf(%22I+am+an+embedded+software+developer!%5Cn%22);%3D&nbsp;&nbsp;&nbsp;&nbsp;printf(%22I+love+OSS!%5Cn%22);%3D&nbsp;&nbsp;&nbsp;&nbsp;return+0;%3D%7D)](https://git.io/typing-svg)
 
 
-# 👣 Visitor Count
-<div align="center">
-  <a href="https://github.com/antonkomarev/github-profile-views-counter">
-    <img alt="Visitor Count" src="https://komarev.com/ghpvc/?username=IsNotAcceptable&color=9400D3&style=for-the-badge&label=You+are+visitor" width="200" height="50"/>
-  </a>
-</div>
-
 
 # 🏆 Github Profile Trophies
 <div align="center">
@@ -77,6 +70,7 @@
   </a>
 </div>
 -->
+<!--
 # 📫 Contact Me
 
 <div id="social"> 
@@ -89,3 +83,4 @@
   <a href="https://vk.com/10i_feel_blood_on_my_lip00">
     <img src="https://img.shields.io/badge/VK-13013f?style=for-the-badge&logo=vk" alt="VK" ></a>
 </div>
+-->
