@@ -43,13 +43,6 @@
     </picture>
   </a>
   
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <picture>
-      <source srcset="https://streak-stats.demolab.com?user=IsNotAcceptable&theme=github-dark&hide_border=true&border_radius=5.5&date_format=M%20j%5B%2C%20Y%5D&ring=9400D3&stroke=9400D3&excludeDaysLabel=9400D3&fire=9400D3&sideNums=9400D3&dates=9400D3" media="(prefers-color-scheme: dark)" />
-      <source srcset="https://streak-stats.demolab.com?user=IsNotAcceptable&theme=github-dark&hide_border=true&border_radius=5.5&date_format=M%20j%5B%2C%20Y%5D&ring=9400D3&stroke=9400D3&excludeDaysLabel=9400D3&fire=9400D3&sideNums=9400D3&dates=9400D3" media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)" />
-      <img alt="streak stats" src="https://streak-stats.demolab.com?user=IsNotAcceptable&theme=github-dark&hide_border=true&border_radius=5.5&date_format=M%20j%5B%2C%20Y%5D&ring=9400D3&stroke=9400D3&excludeDaysLabel=9400D3&fire=9400D3&sideNums=9400D3&dates=9400D3" />
-    </picture>
-  </a>
 </div>
 
 <div align="center">
@@ -70,6 +63,11 @@
   </a>
 </div>
 -->
+# 🎵 Playing now
+<div align="center">
+  <img src="https://raw.githubusercontent.com/IsNotAcceptable/VKMusic-readme/cover-test/assets/lastfm_widget.svg?t=1749831225" width="450" alt="Last.fm Widget">
+</div>
+
 <!--
 # 📫 Contact Me
 
