@@ -65,7 +65,7 @@
 -->
 # 🎵 Playing now
 <div align="center">
-  <img src="https://raw.githubusercontent.com/IsNotAcceptable/VKMusic-readme/cover-test/assets/lastfm_widget.svg?t=1749831225" width="450" alt="Last.fm Widget">
+  <img src="https://raw.githubusercontent.com/IsNotAcceptable/VKMusic-readme/cover-test/assets/lastfm_widget.svg?t=0" width="450" alt="Last.fm Widget">
 </div>
 
 <!--
