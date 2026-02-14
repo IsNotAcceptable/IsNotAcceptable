@@ -1,80 +1,36 @@
-<div id="header" align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExanl4dWkyNnBlb2swcmE1ZndtZWh3dmpldDM0ZWxwZXJ1cmZnenZpdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/xHwDPt2kFONpKI8Rfw/giphy.gif" width="100"/>
-</div>
-
-<div align="center" >
-  <a>
-    <strong>Hi there, I'm Serj</font></strong>
-    <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
-  </a>
-</div>
-
-
-
-# 🏆 Github Profile Trophies
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=IsNotAcceptable&theme=onedark&no-bg=true&column=-1&no-frame=true" />
-  </a>
-</div>
-
-
-# 📊 GitHub Stats
-<div align="center">
-  <a href="https://github.com/Platane/snk">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KinhoLeung/KinhoLeung/output/github-contribution-grid-snake-dark.svg">
-      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://raw.githubusercontent.com/KinhoLeung/KinhoLeung/output/github-contribution-grid-snake.svg">
-      <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/KinhoLeung/KinhoLeung/output/github-contribution-grid-snake.svg">
-    </picture>
-  </a>
-</div>
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <picture>
-      <source srcset="https://github-readme-stats.vercel.app/api?username=IsNotAcceptable&hide_border=true&show_icons=true&card_width=400&theme=vue-dark&rank_icon=github&ring_color=9400D3&title_color=9400D3&icon_color=9400D3&bg_color=00000000" media="(prefers-color-scheme: dark)" />
-      <source srcset="https://github-readme-stats.vercel.app/api?username=IsNotAcceptable&hide_border=true&show_icons=true&card_width=400&theme=vue&rank_icon=github&ring_color=9400D3&title_color=9400D3&icon_color=9400D3&bg_color=00000000" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-      <img alt="github readme stats" src="https://github-readme-stats.vercel.app/api?username=IsNotAcceptable&hide_border=true&show_icons=true&card_width=400&theme=vue&rank_icon=github&ring_color=9400D3&title_color=9400D3&icon_color=9400D3&bg_color=00000000" />
-    </picture>
-  </a>
-  
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark" />
+</div>  <!-- **Daily Motivation for my stalkers:** -->
+
+<h1 align="center">👋 Hi! I'm Serj</h1>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=500&color=9400D3&center=true&vCenter=true&width=600&lines=SCANNING+SYSTEM" alt="Scanner Log" />
 </div>
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=IsNotAcceptable&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <div align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=IsNotAcceptable&hide_border=true&line=9400D3&theme=github-compact&area=false" />
-  </a>
+  <br>
+  <img src="https://img.shields.io/badge/SCANNER-ACTIVE-00FF41?style=for-the-badge&logo=target" />
+  <img src="https://img.shields.io/badge/OBJECT-IDENTIFIED-blue?style=for-the-badge" />
 </div>
+<div align="center">
+  <h3>📉 DETECTED_ENTITY_PREVIEW.JPG</h3>
+  <img src="https://picsum.photos/200/200?random=1" style="border-radius: 50%; border: 2px solid #00FF41;" />
 
-<!--
-# 🎮 Steam Recently Played
-<div align="center">
-  <a href="https://github.com/IsNotAcceptable/Steam-Readme">
-    <picture>
-      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://steam-readme-livid.vercel.app?v=1&theme=dark" />
-      <source media="(prefers-color-scheme: dark)" srcset="https://steam-readme-livid.vercel.app?v=1&theme=dark" />
-      <img alt="Steam" src="https://steam-readme-livid.vercel.app?v=1&theme=light" /> 
-    </picture>
-  </a>
+  <img src="https://loremflickr.com/300/300/abstract,scifi,glitch" width="200" style="border: 3px solid #00FF41;" />
 </div>
--->
-# 🎵 Playing now
+<hr />
+
 <div align="center">
+  <h3>📊 SIGNAL ANALYSIS (VKMusic)</h3>
   <img src="https://raw.githubusercontent.com/IsNotAcceptable/VKMusic-readme/main/assets/lastfm_widget.svg" width="400">
 </div>
 
-<!--
-# 📫 Contact Me
 
-<div id="social"> 
-  <a href="https://steamcommunity.com/id/IsNotAcceptable/">
-    <img src="https://img.shields.io/badge/Steam-13013f?style=for-the-badge&logo=steam" alt="Steam" ></a>
-  
-  <a href="http://discordapp.com/users/798944695279026206">
-    <img src="https://img.shields.io/badge/Discord-13013f?style=for-the-badge&logo=discord" alt="Discord" ></a>
 
-  <a href="https://vk.com/10i_feel_blood_on_my_lip00">
-    <img src="https://img.shields.io/badge/VK-13013f?style=for-the-badge&logo=vk" alt="VK" ></a>
+<hr />
+
+<div align="right">
+  <code>Console v3.0.0 | Data Stream: STABLE |</code>
 </div>
--->
